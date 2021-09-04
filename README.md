@@ -10,3 +10,5 @@ this program grabs two numbers from the user and runs a non-recursive ackermann 
 The user will always be entering in correct input (numbers and never letters).
 User should not be reprompted to enter values again after the first iteration.
 
+## Additional Information:
+Assignment for CIS*3190 in 2019.
