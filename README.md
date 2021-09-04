@@ -3,8 +3,8 @@ this program grabs two numbers from the user and runs a non-recursive ackermann 
 
 ## How to run the program:
 - cd to the folder containing the "ackermann.adb" file
-- type 'gnatmake -Wall ackermann.adb' to compile
-- to run the program type './ackermann'
+- type `gnatmake -Wall ackermann.adb` to compile
+- to run the program type `./ackermann`
 
 ## Assumptions:
 The user will always be entering in correct input (numbers and never letters).
